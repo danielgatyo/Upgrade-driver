@@ -1,0 +1,7 @@
+
+body{font-family:Arial,sans-serif;background:#e9eef3}
+.wrap{max-width:900px;margin:auto;background:white;padding:20px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:15px}
+.stats div{background:#f5f5f5;padding:10px;border-radius:8px}
+button{display:block;width:100%;padding:12px;margin:8px 0}
+.panel{border:1px solid #ddd;padding:15px;border-radius:8px}
